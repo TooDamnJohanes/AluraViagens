@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AluraViagens</string>
+    <string name="title_especiais">Especiais</string>
+    <string name="country_filter">Brasil</string>
+</resources>
